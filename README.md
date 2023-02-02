@@ -64,21 +64,6 @@ You are required to modify the existing BST and display the node values present 
 Hint: ( Convert the Binary Search Tree into a Skewed Tree).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Output
 
 10 30 50 55 60
